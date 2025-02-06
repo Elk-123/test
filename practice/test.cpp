@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    cout << "tjc" << endl;
+    cout << "wty" << endl;
     system("pause");
     return 0;
 }
